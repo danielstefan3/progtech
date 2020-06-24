@@ -1,5 +1,5 @@
-#Adapter (wrapper)
-###videó: [link](https://www.youtube.com/watch?v=2PKQtcJjYvc&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=8)
+# Adapter (wrapper)
+### videó: [link](https://www.youtube.com/watch?v=2PKQtcJjYvc&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=8)
 Konnektro adaptereket mutat. Benéz egy cica.
 4 minta amit könnyen össze lehet téveszteni:
 * Adapter(illesztő) --> Arról szól, hogy kompatibilissá teszünk 2 különböző interfacet ami nem kompatibilis
@@ -18,7 +18,7 @@ Objektum összetételes példát hoz fel nem öröklődéseset. (többszörös �
 
 A lényeg hogy a viselkedésen ne változtassunk. (példának a trafót hozza fel a laptopján, az nem adapter lenne, mert a feszültségváltozáshoz a viselkedésén kell változtatni szal az pl decorator lenne)
 Arra kell az adapter hogy a viselkedését használhassuk de ne módosítsunk rajta.
-###Tankönyv szöveg:
+### Tankönyv szöveg:
 
 Az illesztő (angolul: adapter) tervezési minta arra szolgál, hogy egy meglévő osztály felületét hozzá
 igazítsuk saját elvárásainkhoz. Leggyakoribb példa, hogy egy régebben megírt osztályt akarunk
@@ -30,5 +30,5 @@ között általában kompozíció van, azaz az illesztő kizárólagosan birtoko
 angol neve a Wrapper. Ugyanakkor ez a becsomagolás nem átlátszó, hiszen az illesztő nem nyújtja az
 illesztendő felületét. 
 
-###PéldaKód képe:
+### PéldaKód képe:
 ![AdapterExampleUML](https://refactoring.guru/images/patterns/diagrams/adapter/example.png)

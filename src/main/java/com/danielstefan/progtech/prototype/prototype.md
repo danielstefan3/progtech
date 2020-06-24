@@ -1,7 +1,7 @@
-#Prototype
-###videó:
+# Prototype
+### ideó:
 nada
-###Tankönyv szöveg:
+### Tankönyv szöveg:
 A prototípus tervezési minta fő technikája a klónozás. A klónozás feladata, hogy az eredeti
 objektummal megegyező objektumot hozzon létre. Erre az egyszerű értékadás nem alkalmas, mert
 azok csak az objektum referenciáját másolják, így a két referencia ugyanoda mutat. A klónozásnak két

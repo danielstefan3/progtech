@@ -1,5 +1,5 @@
-#Singleton
-###videó: [link](https://www.youtube.com/watch?v=EcFVTgRHJLM&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=4)
+# Singleton
+### videó: [link](https://www.youtube.com/watch?v=EcFVTgRHJLM&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=4)
 3 factory:
 1. sima factory (nem igazán pattern)
 2. factory method
@@ -16,7 +16,7 @@ Példa:
     * játék: pályák, űrben aszteroidák és ki kell kerüli őket, ha szétlövöm több lesz belőle
     * createObstecale (createAsteroid, createPowerups...)
     * a pályák erősségét paraméterben adja át mintha egy szorzó lenne például (aszteroida nagysága, sebessége)
-###Tankönyv szöveg:
+### Tankönyv szöveg:
 Ezzel a mintával lehet szépen kiváltani a programunkban lévő rengeteg hasonló new utasítást. A
 minta leírja, hogyan készítsünk gyártófüggvényt. Ezt magyarul gyakran készít, angolul a create szóval
 kezdjük. A gyártófüggvény a nevében magadott terméket adja vissza, tehát a készítKutya (createDog)

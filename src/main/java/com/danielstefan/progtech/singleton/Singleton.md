@@ -1,9 +1,9 @@
-#Singleton
-###videó: [link](https://www.youtube.com/watch?v=hUE_j6q0LTQ&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=7&t=0s)
+# Singleton
+### videó: [link](https://www.youtube.com/watch?v=hUE_j6q0LTQ&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=7&t=0s)
 Csávó szerint ez inkább codesmell.
 > "One man's constant is another man's variable"
 
-###Tankönyv szöveg:
+### Tankönyv szöveg:
  > Gyakori feladat, hogy egy osztályt úgy kell megírnunk, hogy csak egy példány lehet belőle. Ez nem
   okoz gondot, ha jól ismerjük az objektum orientált programozás alapelveit. Tudjuk, hogy az osztályból
   példányt a konstruktorával készíthetünk. Ha van publikus konstruktor az osztályban, akkor akárhány
