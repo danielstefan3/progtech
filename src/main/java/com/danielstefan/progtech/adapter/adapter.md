@@ -1,6 +1,6 @@
 # Adapter (wrapper)
 ### videó: [link](https://www.youtube.com/watch?v=2PKQtcJjYvc&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=8)
-Konnektro adaptereket mutat. Benéz egy cica.
+Konnektor adaptereket mutat. Benéz egy cica.
 4 minta amit könnyen össze lehet téveszteni:
 * Adapter(illesztő) --> Arról szól, hogy kompatibilissá teszünk 2 különböző interfacet ami nem kompatibilis
     * Kompitibilissá teszi az interfaceket 
